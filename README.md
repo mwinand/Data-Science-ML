@@ -1,3 +1,3 @@
 # Data-Science-ML
 
- Pasta destinada a projetos durante os estudos de Ciência de Dados e Machine Learning.
+ Pasta destinada a projetos feitos durante estudos de Ciência de Dados, AI e Machine Learning.
