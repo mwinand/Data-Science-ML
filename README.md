@@ -1,3 +1,3 @@
 # Data-Science-ML
- The chatbot was made using google colab
- LINK: https://colab.research.google.com/drive/1aioGILNxRmIRaxJYlcDpIwcbzolGyZyV?usp=sharing
+
+ Pasta destinada a projetos durante os estudos de Ciência de Dados e Machine Learning.
